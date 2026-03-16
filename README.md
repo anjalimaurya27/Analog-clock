@@ -5,7 +5,6 @@ This project displays the current time with moving **hour, minute, and second ha
 
 The clock updates every second using JavaScript's **Date object**.
 
----
 
 ## 🚀 Features
 - Real-time analog clock
@@ -13,14 +12,12 @@ The clock updates every second using JavaScript's **Date object**.
 - Simple and clean UI
 - Beginner-friendly project
 
----
 
 ## 🛠 Technologies Used
 - HTML
 - CSS
 - JavaScript
-
----
+  
 
 ## ▶️ How to Run
 
@@ -28,9 +25,7 @@ The clock updates every second using JavaScript's **Date object**.
 2. Open **index.html** in your browser
 3. The analog clock will start automatically
 
----
 
 ## 📸 Preview
 A simple analog clock interface showing the current time.
 
----
